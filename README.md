@@ -1,7 +1,5 @@
 # 👋 Salut, je suis **Aud Mbag**
 
-![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 🎯 Développeur Web **Fullstack** avec **4 ans d'expérience**.  
 Je conçois des applications web performantes, modernes et sécurisées.  
 Passionné par la technologie, j’aime explorer de nouveaux frameworks, partager mes connaissances et relever des défis techniques.
