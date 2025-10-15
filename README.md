@@ -2,8 +2,6 @@
 
 Développeur Web **Fullstack**.  
 
----
-
 ## Technologies
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -18,9 +16,7 @@ Développeur Web **Fullstack**.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 🌐 Me retrouver ailleurs
+## Me retrouver ailleurs
 
 - [🌐 Portfolio / Site personnel](https://audmbag.github.io)
 - [🔗 LinkedIn](https://www.linkedin.com/in/aud-mbag-340489279/)
