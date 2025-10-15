@@ -1,12 +1,10 @@
-# 👋 Salut, je suis **Aud Mbag**
+## Salut, je suis **Aud Mbag**
 
-🎯 Développeur Web **Fullstack** avec **4 ans d'expérience**.  
-Je conçois des applications web performantes, modernes et sécurisées.  
-Passionné par la technologie, j’aime explorer de nouveaux frameworks, partager mes connaissances et relever des défis techniques.
+Développeur Web **Fullstack**.  
 
 ---
 
-### 🔹 Technologies
+## Technologies
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
